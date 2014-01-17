@@ -15,8 +15,7 @@ Scott's first attempt at this
 | 1 | 1 | 1 | 1 |
 
 ### Test Bench Waveform
-
-
+![waveform] (https://raw2.github.com/C15Agnolutto/ECE281_CE1/master/CE1_TestBench.JPG)
 
 
 ### Analysis
