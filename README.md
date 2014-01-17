@@ -15,3 +15,10 @@ Scott's first attempt at this
 | 1 | 1 | 1 | 1 |
 
 ### Test Bench Waveform
+
+
+
+
+### Analysis
+The waveform and truth table both show the same output. This indicates that the function performed
+properly and the code was correct. 
