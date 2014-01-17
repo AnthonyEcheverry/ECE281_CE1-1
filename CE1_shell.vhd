@@ -29,6 +29,8 @@ use IEEE.STD_LOGIC_1164.ALL;
 --library UNISIM;
 --use UNISIM.VComponents.all;
 
+--Add a comment hiiiiii
+
 entity CE1_shell is
     Port ( A : in  STD_LOGIC;
            B : in  STD_LOGIC;
